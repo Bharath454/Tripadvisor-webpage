@@ -1,0 +1,421 @@
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.line{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.first{
+    display: flex;
+    align-items: center;
+
+}
+.center{
+    display: flex;
+    gap:40px;
+    font-size: medium;
+    font-weight:bold;
+}
+.end{
+    align-items: center;
+    position: relative;
+    left: 60px;
+}
+.button{
+    color: white;
+    background-color: black;
+    padding: 10px 10px;
+    width: 70px;    
+    border-radius: 15px;
+    font-weight: bold;
+    
+}
+.button1{
+    background-color: white;
+    font-weight:500;
+    width:70PX ;
+    border-radius: 15PX;
+    border: 5PX white;
+
+}
+
+.button1:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+.globe{
+    
+    height: 12px;
+    width: 12px;
+}
+.where{
+    font-size:50px;
+    font-weight: bold;
+    margin-left: 630px;
+    margin-top: 50px;
+}  
+.img1{
+
+    display: flex;
+    align-items: center;
+    height:30px ;
+    width:30px ;
+} 
+.contents{
+    
+    
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    align-items: center;
+}
+.image{
+    height: 25px;
+    width: 25px;
+}
+.lines{
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.contents2{
+    margin-top: 20px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.sbox2{
+    position: absolute;
+    top: 5px;
+    left: 24.5em;
+    top: 11px;
+    
+
+    
+}
+.sbox3{
+    position: absolute;
+    right: 24.5em;
+    top: 8px;
+
+    
+}
+.simg{
+
+    display: flex;
+    justify-content: center;
+    width: 700px;
+    height: 50px;
+    background-color: white;
+    border: 3px grey solid;
+    border-radius: 40px;
+    box-shadow: 5px 3px grey;
+    font-size: 16px; 
+    padding-left: 50px;
+}
+.notes{
+    margin-right: 35px;
+    height: 30px;
+    width: 30px;
+}
+.sea{
+    
+    width: 90px;
+    background-color: aquamarine;
+    font-weight: 900;
+    border: 3px aquamarine solid;
+    border-radius: 25px;
+    padding: 9px;
+}
+.mobileimg{
+    margin-top: 70px;
+    margin-left: 150px;
+    height: 400px;
+    width: 1200px;
+    background-color:rgb(179, 215, 238);
+    border-radius: 20px;
+    
+}
+
+.imgC{
+    position: relative;
+
+}
+
+.hi1{
+    width: 500px;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(28, 19, 87);
+
+}  
+.hi2{
+    font-size: 25px;
+    font-weight: 500;
+    color:  rgb(28, 19, 87);
+    font-family: 'Times New Roman', Times, serif;
+    width:400px ;
+
+
+}  
+.hi3{
+    width: 180px;
+    background-color:  rgb(28, 19, 87);
+    color: white;
+    font-weight:600;
+    padding: 9px;
+    border-radius: 25px;
+    border:  rgb(28, 19, 87) solid ;
+
+}
+.bharath{
+    margin-left: 240px;
+    position: absolute;
+    top: 95px;
+    
+}
+
+.selvi{
+    position: relative;
+
+}
+
+.imgpara{
+    margin-left: 9px;
+    font-size: 17px;
+    margin-top: 6px;
+    
+}
+
+
+.divbox{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    height: 250px;
+    width: 75%;
+    margin-left: 200px;
+    margin-top: 100px;
+    
+}
+
+.divimg{
+    margin-top: 20px;
+height: 220px;
+width: 230px;
+}
+.but{
+    margin-top: 215px;
+    
+    
+}
+.but2{
+    width: 100px;
+    border-radius: 20px;
+    border: 3px black solid;
+}
+
+.cen{
+    margin-top: 40px;
+}
+
+.checkImg{
+
+    height: 150px;
+    width: 150px;
+    background-color: bisque;
+}
+.flexLine{
+padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+   background-color: beige;
+margin: 0px 160px;
+margin-top: 60px;
+border-radius: 30px;
+
+}
+
+.checkBtn{
+    padding: 3px 10px;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+
+
+.naveimg{
+    margin-top:80px ;
+    margin-left: 150px;
+}
+.imghead{
+    margin: 6px;
+}
+.imgpar{
+    margin: 3px;
+    margin-left: 10px;
+}
+.foodieimg{
+    height: 280px;
+    width: 280px;
+    border-radius: 7px;
+    border: 2px white solid;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    
+}
+.teamlead{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.teammanager{
+    position: relative;
+}
+.teamemployee{
+    position: absolute;
+    top: 225px;
+    left: 10px;
+   
+}
+
+
+.captain{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.imgmold{
+    height:250px ;
+    width: 370px;
+    border-radius: 8px;
+   
+    
+}
+.headhead1{
+    margin-left: 120px;
+}
+.headhead2{
+    margin-left: 120px;
+}
+.headhead3{
+    margin-left: 120px;
+}
+.wel1{
+    margin-left: 60px;
+}
+.wel2{
+    margin-left: 30px;
+}
+.wel3{
+    margin-left: 55px;
+}
+.fine1{
+    margin-left: 125px;
+}
+.fine2{
+    margin-left: 145px;
+}
+.fine3{
+    margin-left: 150px;
+}
+
+.footer{
+    background-color:rgb(237, 237, 235);
+    height: 400px;
+    margin-top: 70px;
+}
+.abtpara{
+    margin: 5px; 
+}
+.row1{
+    display: flex;
+    margin-left: 7-px;
+    gap: 30px;
+    color: rgb(61, 61, 61);
+}
+.about{
+    margin-top: 30px;
+}
+.explore{
+    margin-top: 30px;
+}
+.business{
+    margin-top: 30px;
+}
+
+.firstDiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+.tripad{
+    margin-top: 35px;
+}
+.taimg{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    margin-right: 0px;
+}
+.select{
+    background-color: white;
+    border: 3px slategrey solid;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: 600;
+    padding: 6px;
+
+}
+.hl{
+    display: flex;
+    gap: 30px;
+    
+    align-items: center;
+}
+.seconddiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     margin-top: 20px;
+     /* margin-left: 20px; */
+}
+.secpara{
+    font-size: smaller;
+    width: 700px;
+    
+}
+.appili{
+    height: 20px;
+    width: 20px;
+}
+.application{
+    display: flex;
+    gap: 20px;
+}
+
+.thirddiv{
+    display:flex ;
+    justify-content: space-around;
+    margin-top: 10px;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px){
+    body{
+        background-color: aqua;
+    }
+  
+    .logo{
+        height: 20px;
+        width: 20px;
+    }
+
+}
